@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 26 18:12:21 IST 2025
+f105b7d59f68c585d4a1fec754aa411ec2f96e88@default-Nexus-https\://nexus-dev.onefiserv.net/repository/mvn-gl-flume-public-group/.lastUpdated=1740573741113
+https\://nexus-dev.onefiserv.net/repository/mvn-gl-flume-public-group/.error=Could not transfer artifact org.codehaus.plexus\:plexus-archiver\:jar\:4.4.0 from/to Nexus (https\://nexus-dev.onefiserv.net/repository/mvn-gl-flume-public-group/)\: status code\: 403, reason phrase\: -------------------->>> REQUESTED ITEM IS QUARANTINED -------------------->>> FOR DETAILS SEE ------>>> https\://sonatype.fiserv.one/ui/links/malware-defense/repositories/quarantinedComponent/MWFiODYyMmViOTE0NDJiNzhkNjI1NTZkNDcwZmU0NTQ <<<------ (403)
